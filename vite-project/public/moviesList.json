@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1,
+    "name": "American Gangster",
+    "price": 10,
+    "description": "איש לא מתייחס ברצינות לפרנק לוקאס, נהג הבוס השקט של אחד מראשי המאפיה האפרו-האמריקאית בהארלם. כאשר הבוס נפטר באופן פתאומי, פרנק מנצל את ההזדמנות ובורא גרסה משל עצמו לחלום האמריקאי",
+    "images": ["../public/Media/images/MOVIES/1-American_Gangster.jpg"],
+    "categories": "movie",
+     "fanart": "../public/Media/images/MOVIES/0-american_gangaster.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Batman",
+    "price": 20,
+    "description": "Lorem ipsum dolor.",
+    "images": ["../public/Media/images/MOVIES/1-Batman.jpg"],
+    "categories": "movie"
+  },
+  {
+    "id": 5,
+    "name": "Joker",
+    "price": 30,
+    "description": "קומיקאי כושל בשם ארתור פלק נתקל בבריונים אלימים בעת שיטוט ברחובות גות'האם של שנות השמונים. כשהחברה מסביבו מתנכרת לו, הוא מאבד בהדרגה את שפיות דעתו ונגרר יותר ויותר אל תוך מחוזות הטירוף ולחיי הפשע והכאוס בעיר",
+    "images": ["../public/Media/images/MOVIES/1-Joker.jpg"],
+    "categories": "movie",
+    "fanart": "../public/Media/images/MOVIES/0-joker.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Nobody",
+    "price": 20,
+    "description": "Lorem ipsum dolor.",
+    "images": ["../public/Media/images/MOVIES/1-Nobody.jpg"],
+    "categories": "movie"
+  },
+  {
+    "id": 3,
+    "name": "Black_Panther",
+    "price": 10,
+    "description": "Lorem ipsum dolor.",
+    "images": ["../public/Media/images/MOVIES/2-Black_Panther.jpg"],
+    "categories": "movie"
+  },
+  {
+    "id": 6,
+    "name": "GoodFellas",
+    "price": 10,
+    "description": "Lorem ipsum dolor.",
+    "images": ["../public/Media/images/MOVIES/2-GoodFellas.jpg"],
+    "categories": "movie"
+  },
+  {
+    "id": 7,
+    "name": "2-Terminator",
+    "price": 10,
+    "description": "המנהיג העתידי של המורדים האנושיים, הוא נער פרחח שמבלה את זמנו ברכיבה על אופנוע ומשחקי וידאו. כאשר רובוט אנושי מגיע מן העתיד בטענה שג'ון עצמו שלח אותו, מבין ג'ון הנער שאמו שרה, שבינתיים אושפזה במוסד לחולי נפש, דיברה אמת כל השנים",
+    "images": ["../public/Media/images/MOVIES/2-Terminator.jpg"],
+    "categories": "movie",
+    "fanart": "../public/Media/images/MOVIES/0-terminator.jpg"
+  },
+  {
+    "id": 8,
+    "name": "The_Godfather",
+    "price": 20,
+    "description": "Lorem ipsum dolor.",
+    "images": ["../public/Media/images/MOVIES/2-The_Godfather.jpg"],
+    "categories": "movie"
+  },
+  {
+    "id": 9,
+    "name": "Kill_Bill",
+    "price": 10,
+    "description": "Lorem ipsum dolor.",
+    "images": ["../public/Media/images/MOVIES/3-Kill_Bill.jpg"],
+    "categories": "movie"
+  },
+  {
+    "id": 10,
+    "name": "Scarface",
+    "price": 30,
+    "description": "Lorem ipsum dolor.",
+    "images": ["../public/Media/images/MOVIES/3-Scarface.jpg"],
+    "categories": "movie"
+  },
+  {
+    "id": 11,
+    "name": "Bad_Boys",
+    "price": 40,
+    "description": "Lorem ipsum dolor.",
+    "images": ["../public/Media/images/MOVIES/4-Bad_Boys.jpg"],
+    "categories": "movie"
+  },
+  {
+    "id": 12,
+    "name": "Friday",
+    "price": 20,
+    "description": "Lorem ipsum dolor.",
+    "images": ["../public/Media/images/MOVIES/4-Friday.jpg"],
+    "categories": "movie"
+  },
+  {
+    "id": 13,
+    "name": "Matrix",
+    "price": 10,
+    "description": "Lorem ipsum dolor.",
+    "images": ["../public/Media/images/MOVIES/4-Matrix.jpg"],
+    "categories": "movie"
+  },
+  {
+    "id": 14,
+    "name": "Menace_to_Society",
+    "price": 10,
+    "description": "Lorem ipsum dolor.",
+    "images": ["../public/Media/images/MOVIES/4-Menace_to_Society.jpg"],
+    "categories": "movie"
+  },
+  {
+    "id": 15,
+    "name": "Poetic-Justice",
+    "price": 30,
+    "description": "Lorem ipsum dolor.",
+    "images": ["../public/Media/images/MOVIES/4-Poetic-Justice.jpg"],
+    "categories": "movie"
+  },
+  {
+    "id": 16,
+    "name": "Training_Day",
+    "price": 10,
+    "description": "Lorem ipsum dolor.",
+    "images": ["../public/Media/images/MOVIES/4-Training_Day.jpg"],
+    "categories": "movie"
+  },
+  {
+    "id": 17,
+    "name": "Warrior",
+    "price": 40,
+    "description": "Lorem ipsum dolor.",
+    "images": ["../public/Media/images/MOVIES/4-Warrior.jpg"],
+    "categories": "movie"
+  },
+  {
+    "id": 18,
+    "name": "Wonder_Woman",
+    "price": 10,
+    "description": "Lorem ipsum dolor.",
+    "images": ["../public/Media/images/MOVIES/4-Wonder_Woman.jpg"],
+    "categories": "movie"
+  },
+  {
+    "id": 19,
+    "name": "Gladiator",
+    "price": 20,
+    "description": "Lorem ipsum dolor.",
+    "images": ["../public/Media/images/MOVIES/5-Gladiator.jpg"],
+    "categories": "movie"
+  },
+  {
+    "id": 20,
+    "name": "Her",
+    "price": 10,
+    "description": "Lorem ipsum dolor.",
+    "images": ["../public/Media/images/MOVIES/5-Her.jpg"],
+    "categories": "movie"
+  },
+  {
+    "id": 21,
+    "name": "Iron_man",
+    "price": 20,
+    "description": "Lorem ipsum dolor.",
+    "images": ["../public/Media/images/MOVIES/5-Iron_man.jpg"],
+    "categories": "movie"
+  },
+  {
+    "id": 22,
+    "name": "Batman",
+    "price": 10,
+    "description": "Lorem ipsum dolor.",
+    "images": ["../public/Media/images/MOVIES/6-Batman.jpg"],
+    "categories": "movie"
+  },
+  {
+    "id": 23,
+    "name": "Die_Hard",
+    "price": 30,
+    "description": "Lorem ipsum dolor.",
+    "images": ["../public/Media/images/MOVIES/6-Die_Hard.jpg"],
+    "categories": "movie"
+  }
+]

@@ -1,0 +1,23 @@
+
+
+.navbar {
+  padding: 0 3px;
+  background-color: black;
+  display: flex;
+  justify-content: space-around;
+}
+
+.navbar > li {
+  display: inline-block;
+  margin: 2px 4px;
+  padding: 2px 8px;
+  background-color: rgb(133, 130, 130);
+  border-radius: 5px;
+  color: white;
+  font-size: 40px;
+  justify-content: space-between;
+}
+
+.navbar :hover{
+  background-color: brown;
+}

@@ -1,0 +1,31 @@
+.root {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+
+}
+
+.imageContainer {
+  height: 70vh;
+  display: flex;
+justify-content: left;
+ }
+
+.img {
+  height: 100%;
+}
+
+.details {
+  padding-left: 35px;
+  color: white;
+
+}
+
+.fanart{
+  width: 30vw;
+  height: 40vh;
+}
+
+.details button{
+  background-color: red;
+}

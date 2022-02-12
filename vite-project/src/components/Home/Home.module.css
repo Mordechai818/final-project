@@ -1,0 +1,28 @@
+.root {
+  width: 100%;
+  height: 100vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("./fall-movies-index-1628968089.jpg");
+
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: white;
+}
+
+.root h1 {
+  font-size: 100px;
+  /* background-color: rgb(169, 199, 226); */
+  padding: 0%;
+}
+
+.root h3{
+  font-size: 30px;
+  padding-top: 0%;
+}
+
+.root span {
+  color: rgb(196, 16, 16);
+}
